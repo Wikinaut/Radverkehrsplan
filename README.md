@@ -13,6 +13,9 @@ Quellen:
 
 # Radverkehrsplan 3.0
 
-Siehe auch https://github.com/Wikinaut/Radverkehrsplan-3.0
+Der RVP 3.0 ist woanders zu finden:
+
+* https://umap.openstreetmap.fr/de/map/radnetze-berlin-30_710131
+* umap Dateien (Auswahl einiger manueller Backups): https://github.com/Wikinaut/Radverkehrsplan-3.0
 
 Lizenz: t.b.d.
