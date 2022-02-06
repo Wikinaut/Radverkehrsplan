@@ -10,4 +10,7 @@ Quellen:
 * https://www.berlin.de/sen/uvk/_assets/verkehr/verkehrsplanung/radverkehr/netzentwurf-radverkehr.pdf
 * Stand: 04.01.2022 11:00
 
+
+Siehe auch https://github.com/Wikinaut/Radverkehrsplan-3.0
+
 Lizenz: t.b.d.
