@@ -1,3 +1,7 @@
+# NEU seit 06.07.2022
+https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_radverkehrsnetz@senstadt&bbox=381440,5815526,400135,5825553
+
+
 # Radverkehrsplan
 Navigierbarer Radverkehrsplan Berlin
 
